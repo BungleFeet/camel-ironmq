@@ -40,9 +40,9 @@
 			</exclusions>
 		</dependency>
 		<dependency>
-			<groupId>ironmq</groupId>
+			<groupId>io.iron</groupId>
 			<artifactId>ironmq</artifactId>
-			<version>0.0.10</version>
+			<version>0.0.10-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>com.google.code.gson</groupId>
